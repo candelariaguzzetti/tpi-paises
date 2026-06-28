@@ -1,6 +1,9 @@
 Trabajo Práctico Integrador (TPI) - Programación 1
 Gestión de Datos de Países en Python
 
+¡ACLARACIÓN!
+En el trabajo se había anotado un desconocido conmigo y hablamos brevemente de hacer el trabajo juntos, pero cuando llegó la hora de empezar a desarrollarlo me dijo que había dejado la carrera así que lo terminé haciendo sola.
+
 
 📌 Objetivo
 Este proyecto implementa una aplicación en Python 3.14 para gestionar información sobre países.
@@ -94,11 +97,11 @@ Candelaria Guzzetti
 
 
 📹 Video demostración
-Enlace al video
+(https://youtu.be/LxkYfl5G5j4)
 
 
 
 📑 Documentación
 El informe académico y técnico se encuentra en la carpeta docs/ o en el siguiente enlace:
-Informe PDF
+(https://docs.google.com/document/d/13JT1l-7b2luBkhlV-z0G58ceg3TqyiF6VAlC6-_fClI/edit?usp=sharing)
 
